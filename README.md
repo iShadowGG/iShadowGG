@@ -1,4 +1,5 @@
-![mi niña](assets/mi niña.jpeg)
+![mi niña](assets/WhatsApp-Image-2022-09-21-at-4.54.48-PM.jpg)
+
 - 👋 Hi, I’m @iShadowGG im from México 💚🤍❤
 - 👀 I’m  interesting in videogames, coding, and learn so much in systems...
 - 🌱 I’m currently learning python, C++, Linux commands and systems, and front-end developing ...
