@@ -33,7 +33,8 @@ void main() {
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-white?style=flat&logo=microsoftazure&logoColor=informational)![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?&style=flat&logo=pulumi&logoColor=orange)
+![Azure](https://img.shields.io/badge/Azure-white?style=flat&logo=microsoftazure&logoColor=informational)
+![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?&style=flat&logo=pulumi&logoColor=orange)
 </div>
 
 <div align="center">
