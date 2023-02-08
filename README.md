@@ -36,7 +36,9 @@ void main() {
 ![Azure](https://img.shields.io/badge/Azure-white?style=flat&logo=microsoftazure&logoColor=informational)![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?&style=flat&logo=pulumi&logoColor=orange)
 </div>
 
-![mi niña](assets/WhatsApp-Image-2022-09-21-at-4.54.48-PM.jpg)
+<div align="center">
+<img src="assets/WhatsApp-Image-2022-09-21-at-4.54.48-PM.jpg" width="400" height="350">
+</div>
 
 
 
