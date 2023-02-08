@@ -1,11 +1,11 @@
-<div align="left">
-    <h1>iShadowGG's page 🐲</h1>
+<div align="center">
+    <h1>iShadowGG's page(dragon knight -ドラゴンナイト) 🐲</h1>
 </div>
 
 <div align="center">
+    <img src="assets/112431620.jpg" width="90">
     <h2>Mexican student 🟩⬜🟥</h2>
 </div>
-
 
 ```cpp
 #include<bits/stdc++.h>
