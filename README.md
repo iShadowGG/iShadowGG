@@ -37,12 +37,6 @@ void main() {
 ![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?&style=flat&logo=pulumi&logoColor=orange)
 </div>
 
-<div align="center">
-<img src="assets/WhatsApp-Image-2022-09-21-at-4.54.48-PM.jpg" width="400" height="350">
-</div>
-
-
-
 <!---
 iShadowGG/iShadowGG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
